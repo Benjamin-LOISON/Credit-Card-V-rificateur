@@ -1,3 +1,5 @@
+# coding: utf8
+
 #-------------------------------------------------------------------------------
 # Nom:          Vérificateur de Carte Bleue
 # Description:  Vérifie les 16 numéros
